@@ -20,7 +20,7 @@ oppure fare il Download del file .zip
      - aprire il Developer Command Prompt for Visual Studio (non PowerShell!)
      - spostarsi nella directory dove sono contenuti i file
      - compilare con:
-        **cl test.cpp**
+        **cl nome_file.cpp**
      - cliccare sui file .exe
 
     
